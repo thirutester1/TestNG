@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-15T06:07:52Z" name="Default suite" finished-at="2022-01-15T06:08:03Z" duration-ms="11733">
+    <groups>
+    </groups>
+    <test started-at="2022-01-15T06:07:52Z" name="Default test" finished-at="2022-01-15T06:08:03Z" duration-ms="11733">
+      <class name="com.ecommerce.stepdefinition.Flipkart">
+        <test-method is-config="true" signature="launch()[pri:0, instance:com.ecommerce.stepdefinition.Flipkart@36060e]" started-at="2022-01-15T11:37:52Z" name="launch" finished-at="2022-01-15T11:38:00Z" duration-ms="8025" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method is-config="true" signature="start()[pri:0, instance:com.ecommerce.stepdefinition.Flipkart@36060e]" started-at="2022-01-15T11:38:00Z" name="start" finished-at="2022-01-15T11:38:00Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="login()[pri:1, instance:com.ecommerce.stepdefinition.Flipkart@36060e]" started-at="2022-01-15T11:38:00Z" name="login" finished-at="2022-01-15T11:38:00Z" duration-ms="170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="end()[pri:0, instance:com.ecommerce.stepdefinition.Flipkart@36060e]" started-at="2022-01-15T11:38:00Z" name="end" finished-at="2022-01-15T11:38:00Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method is-config="true" signature="start()[pri:0, instance:com.ecommerce.stepdefinition.Flipkart@36060e]" started-at="2022-01-15T11:38:00Z" name="start" finished-at="2022-01-15T11:38:00Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="search()[pri:2, instance:com.ecommerce.stepdefinition.Flipkart@36060e]" started-at="2022-01-15T11:38:00Z" name="search" finished-at="2022-01-15T11:38:00Z" duration-ms="166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method is-config="true" signature="end()[pri:0, instance:com.ecommerce.stepdefinition.Flipkart@36060e]" started-at="2022-01-15T11:38:00Z" name="end" finished-at="2022-01-15T11:38:00Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method signature="name()[pri:3, instance:com.ecommerce.stepdefinition.Flipkart@36060e]" started-at="2022-01-15T11:38:00Z" name="name" finished-at="2022-01-15T11:38:01Z" duration-ms="871" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- name -->
+        <test-method is-config="true" signature="start()[pri:0, instance:com.ecommerce.stepdefinition.Flipkart@36060e]" started-at="2022-01-15T11:38:00Z" name="start" finished-at="2022-01-15T11:38:00Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method is-config="true" signature="start()[pri:0, instance:com.ecommerce.stepdefinition.Flipkart@36060e]" started-at="2022-01-15T11:38:01Z" name="start" finished-at="2022-01-15T11:38:01Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method is-config="true" signature="end()[pri:0, instance:com.ecommerce.stepdefinition.Flipkart@36060e]" started-at="2022-01-15T11:38:01Z" name="end" finished-at="2022-01-15T11:38:01Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method signature="window()[pri:4, instance:com.ecommerce.stepdefinition.Flipkart@36060e]" started-at="2022-01-15T11:38:01Z" name="window" finished-at="2022-01-15T11:38:01Z" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- window -->
+        <test-method is-config="true" signature="end()[pri:0, instance:com.ecommerce.stepdefinition.Flipkart@36060e]" started-at="2022-01-15T11:38:01Z" name="end" finished-at="2022-01-15T11:38:01Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method signature="validation()[pri:5, instance:com.ecommerce.stepdefinition.Flipkart@36060e]" started-at="2022-01-15T11:38:01Z" name="validation" finished-at="2022-01-15T11:38:03Z" duration-ms="1587" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validation -->
+        <test-method is-config="true" signature="start()[pri:0, instance:com.ecommerce.stepdefinition.Flipkart@36060e]" started-at="2022-01-15T11:38:01Z" name="start" finished-at="2022-01-15T11:38:01Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="screenshot()[pri:6, instance:com.ecommerce.stepdefinition.Flipkart@36060e]" started-at="2022-01-15T11:38:03Z" name="screenshot" finished-at="2022-01-15T11:38:03Z" duration-ms="292" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshot -->
+        <test-method is-config="true" signature="end()[pri:0, instance:com.ecommerce.stepdefinition.Flipkart@36060e]" started-at="2022-01-15T11:38:03Z" name="end" finished-at="2022-01-15T11:38:03Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method is-config="true" signature="start()[pri:0, instance:com.ecommerce.stepdefinition.Flipkart@36060e]" started-at="2022-01-15T11:38:03Z" name="start" finished-at="2022-01-15T11:38:03Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method is-config="true" signature="end()[pri:0, instance:com.ecommerce.stepdefinition.Flipkart@36060e]" started-at="2022-01-15T11:38:03Z" name="end" finished-at="2022-01-15T11:38:03Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method is-config="true" signature="start()[pri:0, instance:com.ecommerce.stepdefinition.Flipkart@36060e]" started-at="2022-01-15T11:38:03Z" name="start" finished-at="2022-01-15T11:38:03Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="screenshot()[pri:6, instance:com.ecommerce.stepdefinition.Flipkart@36060e]" started-at="2022-01-15T11:38:03Z" name="screenshot" finished-at="2022-01-15T11:38:03Z" duration-ms="232" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshot -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.ecommerce.stepdefinition.Flipkart@36060e]" started-at="2022-01-15T11:38:03Z" name="close" finished-at="2022-01-15T11:38:03Z" duration-ms="317" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="end()[pri:0, instance:com.ecommerce.stepdefinition.Flipkart@36060e]" started-at="2022-01-15T11:38:03Z" name="end" finished-at="2022-01-15T11:38:03Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- com.ecommerce.stepdefinition.Flipkart -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
